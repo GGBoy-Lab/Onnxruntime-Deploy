@@ -1,6 +1,4 @@
 # Onnxruntime-Deploy
-Deploy_tools
-# Onnxruntime-Deploy
 
 ## 概述
 
